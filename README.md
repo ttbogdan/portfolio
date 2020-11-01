@@ -9,8 +9,8 @@
 
 ## Installation
 
-- `git clone https://github.com/ttbogdan/portfolio.git`
-- cd minimal-react-webpack-babel-setup
+- `git clone https://github.com/ttbogdan/portfolio.git` <your-app>
+- cd <your-app>
 - npm install
 - npm start
 - visit `http://localhost:8080/`
